@@ -1,5 +1,5 @@
 {
-  "name": "tcomb-form-native",
+  "name": "tcomb-form-native-cr",
   "version": "0.6.20",
   "description": "react-native powered UI library for developing forms writing less code",
   "main": "index.js",
@@ -11,7 +11,7 @@
     "type": "git",
     "url": "https://github.com/gcanti/tcomb-form-native.git"
   },
-  "author": "Giulio Canti <giulio.canti@gmail.com>",
+  "author": "corupta + Giulio Canti <giulio.canti@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/gcanti/tcomb-form-native/issues"
